@@ -1,12 +1,12 @@
-# Adrian Irizarry Negron
+# Hello There!
 
 
 ```java
 public String aboutMe() {
     return 
-    "I am a student at the University of Puerto Rico Mayaguez currently on my third year of my software engineer bachelor's
-    degree. I am currently looking for any opportunities to improve my skills and learn new ones specially in the game
-    and web development fields."
+    "I am Adrian Irizarry Negron a student at the University of Puerto Rico Mayaguez currently on my third year of
+    my software engineer bachelor's degree. I am currently looking for any opportunities to improve my skills and learn 
+    new ones specially in the game and web development fields."
 }
 ```
 
