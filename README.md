@@ -31,7 +31,7 @@ public String[] otherSKills() {
 <ul>
 <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32px" width="32px" /> <a href="https://www.linkedin.com/in/adrian-irizarry-negron-b37a7422a/"> LinkedIn </a> </li>
 
-<li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32px" width="32px" /> <a href="mailto:adrianirizarrynegron@gmail.com"> Email </a> (adrianirizarrynegron@gmail.com) </li>
+<li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32px" width="32px" /> <a href="mailto:adrianirizarryngron@gmail.com"> Email </a> (adrianirizarryngron@gmail.com) </li>
 
 </ul>
 
