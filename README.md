@@ -11,7 +11,7 @@ public String aboutMe() {
 ```
 
 
-## Languages Known:
+## Technology Known:
 <ul>
     <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height = "32px" width = "32px" /> <img src = "https://progress-bar.dev/75/"/> </li>
     <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height = "32px" width = "32px" /> <img src = "https://progress-bar.dev/75/"/> </li>
@@ -27,6 +27,12 @@ public String[] otherSKills() {
     "Familiarity of Windows and Ubuntu"};
 }
 ```
+```java
+public String[] hobbies() {
+    return new String[] {"Gaming", "Reading", "Film Enthusiast", "Casual Chess Player"};
+}
+```
+
 ## Contact Information:
 <ul>
 <li> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32px" width="32px" /> <a href="https://www.linkedin.com/in/adrian-irizarry-negron-b37a7422a/"> LinkedIn </a> </li>
